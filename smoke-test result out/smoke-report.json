@@ -1,0 +1,35 @@
+{
+  "agent_version": "1.2.0",
+  "run_id": "smoke-003",
+  "inputs": 100,
+  "expected_count": 100,
+  "envelopes": 100,
+  "distinct_organisations": 100,
+  "silent_drops": 0,
+  "terminal_status": {
+    "partial": 79,
+    "completed": 21
+  },
+  "contract_issues": 0,
+  "issues_sample": [],
+  "material_changes": 0,
+  "wall_clock_s": 138.9,
+  "requests": 877,
+  "cache_hits": 2,
+  "third_party_cost_usd": 0.0,
+  "degraded_registry_only": 0,
+  "family_hit_rate": {
+    "legal_identity": 1.0,
+    "financials": 1.0,
+    "leadership": 1.0,
+    "locations": 1.0,
+    "group_structure": 0.05,
+    "digital_presence": 0.07,
+    "social_profiles": 0.03,
+    "contact": 0.06,
+    "hiring": 0.0,
+    "public_activity": 0.03,
+    "workforce": 0.1,
+    "business_profile": 1.0
+  }
+}
